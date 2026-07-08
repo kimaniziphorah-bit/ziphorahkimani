@@ -1,0 +1,28 @@
+HEADINGS
+## My Learning Goals
+### The Semester
+**Artificial Intelligence** enables computers to learn, reason, solve problems *like humans*, making everydays '''tasks easier.
+LINKS
+UNORDERED LISTS
+. Learn advanced prompt engeneerring.
+. Learn Python fundamentals
+. Learn workflow automation using tools
+. Understand the archtecture behind neural networks, llm abd computor vision
+ORDERED LIST
+- [x] Open a file you want to modify
+- [ ] Click pencil icon to edit
+- [ ] Scroll down and commit changes.
+TABLE      
+
+Tool              |         Purpose                                                                     Link
+------------------|----------------------------------------------------------------------------------------------------------
+Zapier            |         Automates recurring business workflows by linking seperate software tools.
+
+Github Copilot    |         Assists developers by auto completing code, suggesting bug fixes and 
+                  |          writing scripts
+
+Midjourney                 For generating photorealistic and artistic AI images from text promote.
+                           
+                           
+
+
