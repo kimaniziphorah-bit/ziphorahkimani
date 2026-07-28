@@ -3,7 +3,7 @@
 ### The Semester
 
 2. TEXT FORMATING:
-**Artificial Intelligence** enables computers to learn, reason, solve problems *like humans*, making everydays `tasks easier`.
+**Artificial Intelligence** enables computers to learn, reason, solve problems *like humans*, making everyday's `tasks easier`.
 2. LINKS:
 
 3. UNORDERED LISTS:
@@ -29,6 +29,30 @@ Github Copilot    |         Assists developers by auto completing code, suggesti
 Midjourney        |         For generating photorealistic and artistic AI images from text promote.        |
 
 6. TASK LIST:
+- [x] Learn how to promt to get the best output.
+- [x] Learn how to work on projects.
+- [-] Learn how to automate my business
+- [-] Understand how neural networks and LLM operate in a computor
+
+7. CODE BLOCK:
+```Python
+name="Zipporah"
+print(Zipporah)
+``
+
+8. BLOCK QUOTE:
+>Consistency is the bridge between your goals and your achievements.
+
+9. BONUS:
+# Zipporah Kimani
+I am a student in Mahanaim College specialising in *Artificial Intelligence*.
+## Goals
+[-] To apply the knowlege in making projects with my business partners
+[-] To enable automation of my business
+[-] To learn how to prompt to get better output on the content for my business
+[-] To learn chartbot
+> Excellence is not an act but a habit.
+
 
 
 
