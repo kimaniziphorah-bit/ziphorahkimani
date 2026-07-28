@@ -4,14 +4,14 @@
 
 2. TEXT FORMATING:
 **Artificial Intelligence** enables computers to learn, reason, solve problems *like humans*, making everyday's `tasks easier`.
-2. LINKS:github.com/kimaniziphorah-bit/ziphorahkimani/edit/main/markdown.practice.md
-         https://github.com/CardenDante/Introduction-To-Github-and-git/tree/main/03-markdown-basics
+2. LINKS:(github.com/kimaniziphorah-bit/ziphorahkimani/edit/main/markdown.practice.md)
+         ( https://github.com/CardenDante/Introduction-To-Github-and-git/tree/main/03-markdown-basics)
 
 3. UNORDERED LISTS:
-. Learn advanced prompt engeneerring.
+. Learn advanced prompt engeneerring
 . Learn Python fundamentals
 . Learn workflow automation using tools
-. Understand the archtecture behind neural networks, llm abd computor vision
+. Understand the archtecture behind neural networks, LLM and computor vision
 
 4. ORDERED LIST:
 - [x] Open a file you want to modify
@@ -23,12 +23,12 @@
 Tool              |         Purpose                                                                        | Link
 ------------------|----------------------------------------------------------------------------------------|------------------
 Customer services |   Enhances customer interactions by providing 24/7 automated responses.                | https://www.onboardmeetings.com/blog/types-artificial-intelligence-tools/#:~:text=AI%2Dpowered,time 
-chart bots
-
-CRM               |  Customer Relationship ManagementCRM) systems maintains database,automate              | 
-                  |  follow ups and organise customer data for stronger connection.                                                             |
+chart bots.       |                                                                                        | 
                   |                                                                                        |
-Midjourney        |         For generating photorealistic and artistic AI images from text promote.        |
+CRM               |  Customer Relationship ManagementCRM) systems maintains database,automate              | https://www.onboardmeetings.com/blog/types-artificial-intelligence-tools/#:~:text=Systems-,Customer,connections
+                  |  follow ups and organise customer data for stronger connection.                        |                                     |
+                  |                                                                                        |
+        
 
 6. TASK LIST:
 - [x] Learn how to promt to get the best output.
@@ -41,7 +41,6 @@ Midjourney        |         For generating photorealistic and artistic AI images
 name="Zipporah"
 print(Zipporah)
 ``
-
 8. BLOCK QUOTE:
 >Consistency is the bridge between your goals and your achievements.
 
